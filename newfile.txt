@@ -1,0 +1,7 @@
+this is text file
+a=10
+b=20
+echo "the value is:$a"
+echo "the value is:$b"
+name=pallerakesh
+echo "my name is:$name" 
